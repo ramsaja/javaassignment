@@ -1,0 +1,3 @@
+stu1|CS101
+stu1|CS102
+stu1|CS103

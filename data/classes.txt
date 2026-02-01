@@ -1,0 +1,3 @@
+CS101-A|CS101|Monday|123|123
+CS102-B|CS102|Monday|123123|123123
+test|CS101|Monday|10:30|test

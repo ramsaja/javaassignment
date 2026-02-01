@@ -1,0 +1,3 @@
+CS101|Introduction to Java|leader1|lec1
+CS102|Advanced Algorithms|leader1|lec1
+CS103|Test|leader1|lec1

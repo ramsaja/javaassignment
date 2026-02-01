@@ -1,0 +1,4 @@
+A101|Java Basics Quiz|Quiz|CS101|20
+A102|OOP Assignment|Assignment|CS101|100
+A201|Graph Theory Quiz|Quiz|CS102|30
+A301|test|Quiz|CS103|50

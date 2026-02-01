@@ -1,0 +1,4 @@
+admin|admin|admin123|System Administrator|ADMINISTRATOR
+leader1|leader1|password|Dr. Alice Johnson|ACADEMIC_LEADER
+lec1|lec1|password|Mr. Bob Smith|LECTURER
+stu1|stu1|password|Charlie Brown|STUDENT
